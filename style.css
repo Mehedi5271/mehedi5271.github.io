@@ -28,7 +28,9 @@ h1,h2,h3,h4,h5,h6{
 }
 .header-contact{
     float:right;
-    padding: 30px;
+    padding: 10px;
+    border: 2px solid white;
+    margin-top: 20px;
 }
 .header-contact a{
     text-decoration: none;
