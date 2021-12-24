@@ -3,12 +3,12 @@
     padding: 0;
 }
 body{
-    background-color: #33D4FF ;
+    background-color: greenyellow ;
     font-family: 'Oswald', sans-serif;
 }
 .container{
     max-width: 1000px;
-    background-color: greenyellow;
+    background-color: #33D4FF;
     margin: 0 auto;
     padding: 14px;
 }
